@@ -1,6 +1,7 @@
 # 🏅 Olympics Data Analysis (1976–2008)
 
 This project focuses on analyzing historical Olympic medal data from the Summer Games between **1976 (Montreal)** and **2008 (Beijing)**. The analysis includes insights into top-performing countries, athletes, gender participation, and trends across years. A machine learning model is also developed to predict the type of medal won (Gold, Silver, Bronze) based on athlete and event features.
+This project is part of our ongoing 'Data Analysis Series' aimed at practicing real-world EDA and machine learning workflows on diverse datasets.
 
 ---
 
@@ -78,8 +79,10 @@ Future improvements could include additional features like athlete age, previous
 - `Summer-Olympic-medals.csv` – Raw dataset
 - `README.md` – Project documentation
 
+
 ---
 
-## 📌 Note
+## 🙋‍♂️ Author
 
-This project is part of an ongoing data analysis series aimed at practicing real-world EDA and machine learning workflows on diverse datasets.
+Made by Hashir khan   
+Feel free to ⭐ the repo if you found it helpful!
